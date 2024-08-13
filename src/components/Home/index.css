@@ -1,0 +1,17 @@
+/* Write your CSS code here */
+.home-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 8%;
+}
+.home-head {
+  color: #551e53;
+  padding-top: 3%;
+  font-size: 45px;
+}
+
+.home-img {
+  width: 25%;
+}

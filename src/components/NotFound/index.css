@@ -1,0 +1,17 @@
+/* Write your CSS code here */
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 5%;
+}
+
+.head {
+  color: #551e53;
+  font-size: 40px;
+}
+
+.img {
+  width: 30%;
+} 
